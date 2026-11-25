@@ -1,0 +1,53 @@
+{
+  "project": "ADISCO DINO JUMP",
+  "manifest_version": "1.0",
+  "asset_count": 5,
+  "generated_png_atlases": 3,
+  "individual_sprites": 0,
+  "validated_animated_characters": 0,
+  "validated_animation_sprite_sheets": 0,
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3894,
+      "sha256": "7d8ea1d2bd83d9e92ec738e535af411bcbcca442ac66e5115047a61f6bd06d03",
+      "format": "text/json"
+    },
+    {
+      "path": "metadata/animation_metadata.json",
+      "bytes": 481,
+      "sha256": "a26527f6f89673882b688b7016129259302e9cd88c11703ba9493a1fae0d1d4e",
+      "format": "text/json"
+    },
+    {
+      "path": "sprite_sheets/01_player_and_teacher_concept_atlas.png",
+      "bytes": 2094011,
+      "sha256": "be21ae3a7d4f99869216bc28e6b74e85523c3bc56cfaea6b28c9a764fa765915",
+      "format": "PNG",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_alpha_channel": true
+    },
+    {
+      "path": "sprite_sheets/02_full_game_asset_concept_atlas.png",
+      "bytes": 2961617,
+      "sha256": "51138cd246c9aed8f4e619c7cda7a17090109868da7e363b5ea00f19b6c033d5",
+      "format": "PNG",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_alpha_channel": true
+    },
+    {
+      "path": "sprite_sheets/03_asset_catalog_concept_atlas.png",
+      "bytes": 3086579,
+      "sha256": "b12cf5a59daee1b3ce39b10f59d497a61fb7095dfe4cd06fb75af4372a9a9283",
+      "format": "PNG",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "has_alpha_channel": false
+    }
+  ]
+}

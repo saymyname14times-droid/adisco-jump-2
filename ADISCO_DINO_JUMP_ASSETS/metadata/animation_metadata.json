@@ -1,0 +1,11 @@
+{
+  "project": "ADISCO DINO JUMP",
+  "schema_version": "0.1.0",
+  "status": "concept_atlases_only",
+  "canvas_target": "HTML Canvas / JavaScript",
+  "individual_frames_exported": false,
+  "transparent_sprite_export_verified": false,
+  "frame_coordinates_verified": false,
+  "animations": [],
+  "note": "The concept atlases depict poses and categories, but no individual frame sequence has been cropped, aligned, or validated. Do not treat these images as runtime sprite sheets."
+}
